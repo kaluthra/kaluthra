@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kaluthra
-- 👀 I’m interested in Java Backend Development
+- 👀 I’m Nerd Coder
 - 🌱 I’m Software Backend Developer @Birdeye
 
 <!---
