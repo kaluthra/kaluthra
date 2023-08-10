@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kaluthra
-- 👀 I’m Nerd Coder
+- 👀 I’m a Nerd Coder
 - 🌱 I’m Software Backend Developer @Birdeye
 
 <!---
